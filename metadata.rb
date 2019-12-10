@@ -1,6 +1,6 @@
 name 'an-ansible'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'AddyNet Operations'
+maintainer_email 'addynetops@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures an-ansible'
 long_description 'Installs/Configures an-ansible'
@@ -11,10 +11,10 @@ chef_version '>= 14.0'
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/an-ansible/issues'
+# issues_url 'https://github.com/jladdy/an-ansible/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/an-ansible'
+# source_url 'https://github.com/jladdy/an-ansible'

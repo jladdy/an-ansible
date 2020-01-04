@@ -4,7 +4,7 @@ maintainer_email 'addynetops@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures an-ansible'
 long_description 'Installs/Configures an-ansible'
-version '0.1.0'
+version '0.1.7'
 chef_version '>= 14.0'
 
 # The `issues_url` points to the location where issues for this cookbook are

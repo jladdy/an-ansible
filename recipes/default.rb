@@ -5,7 +5,9 @@
 # Copyright:: 2019, AddyNet Operations, All Rights Reserved.
 
 apt_repository 'ansible' do
-  uri        'ppa:ansible/ansible'
+	uri        "ppa:ansible/ansible"
+	components ['main']
+        action :add
 end
 
 package 'ansible' do

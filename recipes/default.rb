@@ -5,7 +5,7 @@
 # Copyright:: 2019, AddyNet Operations, All Rights Reserved.
 
 apt_repository 'ansible' do
-  uri        'http://ppa:ansible/ansible'
+  uri        'ppa:ansible/ansible'
 end
 
 package 'ansible' do
